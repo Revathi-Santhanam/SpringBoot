@@ -53,18 +53,18 @@ Project: Maven based project.
 
 ## Screenshoots
 
-Bean Creation :
+Get method :
 
-<img src="src/main/java/com/rev/Screenshots/beansSetUp.png">
+<img src="src/main/java/com/screenshots/get.png">
 
-Login:
+Post Method:
 
-<img src="src/main/java/com/rev/Screenshots/login.png">
+<img src="src/main/java/com/screenshots/post.png">
 
-Home:
+Put method:
 
-<img src="src/main/java/com/rev/Screenshots/home.png">
+<img src="src/main/java/com/screenshots/put.png">
 
-Register:
+Delete Method:
 
-<img src="src/main/java/com/rev/Screenshots/register.png">
+<img src="src/main/java/com/screenshots/delete.png">
